@@ -70,5 +70,5 @@ Conclusion
 	In summary, the Document and Window objects are crucial components of client-side JavaScript programming, 
 	providing access to the structure and behavior of web pages within the 	browser environment. Understanding
 	their roles and capabilities empowers developers to create dynamic and interactive web applications effectively.
-	By leveraging the Document object 	for DOM manipulation and the Window object for browser interaction, 
+	By leveraging the Document object for DOM manipulation and the Window object for browser interaction, 
 	developers can build rich and engaging user experiences on the web.
